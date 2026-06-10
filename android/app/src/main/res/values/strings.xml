@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IR Remote Pro</string>
+    <string name="title_activity_main">IR Remote Pro</string>
+    <string name="package_name">com.irremote.pro</string>
+    <string name="custom_url_scheme">com.irremote.pro</string>
+</resources>
